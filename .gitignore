@@ -1,0 +1,5 @@
+*.[ao]
+/todo
+doc/**/*.pdf
+bin/
+target/
